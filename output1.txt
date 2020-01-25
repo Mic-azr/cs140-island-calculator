@@ -1,0 +1,23 @@
+ 
+Enter requirements
+==================
+Enter measurement x (feet): 30
+Enter measurement y (feet): 20
+Enter plant spacing (feet): .5
+Enter depth of garden soil (feet): .8
+
+Specifications
+==============
+Traffic island overall length: 60.0 feet
+Traffic island overall width: 30.0 feet
+Sidewalk area: 785.39813 square feet
+Sidewalk width: 5.0 feet
+
+Garden materials needed
+=======================
+Plants for each circle garden: 1256
+Plants for the middle garden: 772
+Total plants for garden: 3284
+Soil for each circle garden: 9.308423 cubic feet
+Soil for the middle garden: 5.7227163 cubic feet
+Total soil for the garden: 24.339561 cubic feet
