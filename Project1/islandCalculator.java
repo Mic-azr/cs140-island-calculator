@@ -64,9 +64,9 @@ public class islandCalculator {
     System.out.println("Plants for each circle garden: " + plantsForCircle);
     System.out.println("Plants for the middle garden: " + plantsForMiddle);
     System.out.println("Total plants for garden: " + totalPlants);
-    System.out.println("Soil for each circle garden: " + soilForCircle + " cubic feet");
-    System.out.println("Soil for the middle garden: " + soilForMiddle + " cubic feet");
-    System.out.println("Total soil for the garden: " + soilArea + " cubic feet");
+    System.out.println("Soil for each circle garden: " + soilForCircle + " cubic yards");
+    System.out.println("Soil for the middle garden: " + soilForMiddle + " cubic yards");
+    System.out.println("Total soil for the garden: " + soilArea + " cubic yards");
     
 }
 }
